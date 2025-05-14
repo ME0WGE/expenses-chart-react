@@ -1,12 +1,25 @@
-# React + Vite
+Front-end Style Guide
+Layout :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Mobile: 375px
 
-Currently, two official plugins are available:
+- Desktop: 1440px
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Colors :
 
-## Expanding the ESLint configuration
+Primary
+Soft red: hsl(10, 79%, 65%)
+Cyan: hsl(186, 34%, 60%)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Neutral
+Dark brown: hsl(25, 47%, 15%)
+Medium brown: hsl(28, 10%, 53%)
+Cream: hsl(27, 66%, 92%)
+Very pale orange: hsl(33, 100%, 98%)
+
+Typography
+Body Copy
+Font size: 18px
+Font
+Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
+Weights: 400, 700
